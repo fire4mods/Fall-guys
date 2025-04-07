@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /cdn-cgi/
-Allow: /
-
-Sitemap: https://fire4mods.github.io/stumble-guys/sitemap.xml
